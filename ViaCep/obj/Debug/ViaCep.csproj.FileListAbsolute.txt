@@ -1,0 +1,14 @@
+D:\WorkC#\Projetos\ViaCep\ViaCep\bin\Debug\ViaCep.exe.config
+D:\WorkC#\Projetos\ViaCep\ViaCep\bin\Debug\ViaCep.exe
+D:\WorkC#\Projetos\ViaCep\ViaCep\bin\Debug\ViaCep.pdb
+D:\WorkC#\Projetos\ViaCep\ViaCep\obj\Debug\ViaCep.csproj.AssemblyReference.cache
+D:\WorkC#\Projetos\ViaCep\ViaCep\obj\Debug\ViaCep.csproj.SuggestedBindingRedirects.cache
+D:\WorkC#\Projetos\ViaCep\ViaCep\obj\Debug\ViaCep.Frm_ViaCep.resources
+D:\WorkC#\Projetos\ViaCep\ViaCep\obj\Debug\ViaCep.Properties.Resources.resources
+D:\WorkC#\Projetos\ViaCep\ViaCep\obj\Debug\ViaCep.csproj.GenerateResource.cache
+D:\WorkC#\Projetos\ViaCep\ViaCep\obj\Debug\ViaCep.csproj.CoreCompileInputs.cache
+D:\WorkC#\Projetos\ViaCep\ViaCep\obj\Debug\ViaCep.exe
+D:\WorkC#\Projetos\ViaCep\ViaCep\obj\Debug\ViaCep.pdb
+D:\WorkC#\Projetos\ViaCep\ViaCep\bin\Debug\Newtonsoft.Json.dll
+D:\WorkC#\Projetos\ViaCep\ViaCep\bin\Debug\Newtonsoft.Json.xml
+D:\WorkC#\Projetos\ViaCep\ViaCep\obj\Debug\ViaCep.csproj.CopyComplete
